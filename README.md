@@ -1,1 +1,1 @@
-# Gamma-Knife-Radiosurgery-System
+# Gamma Knife Radiosurgery System
